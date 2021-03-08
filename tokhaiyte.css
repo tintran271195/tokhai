@@ -1,0 +1,28 @@
+.divheadbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: aqua;
+  border-radius: 10px;
+}
+.btnSignUp {
+  margin-top: 50%;
+  padding: 10px;
+  border-radius: 10px;
+}
+.btnSignIn {
+  padding: 10px;
+  border-radius: 10px;
+}
+.btnSubmit {
+  padding: 10px;
+  border-radius: 10px;
+}
+.form {
+  margin: 10%;
+}
+td,
+th {
+  margin-top: 20px;
+  border: 1px solid black;
+}
